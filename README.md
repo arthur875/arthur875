@@ -1,8 +1,8 @@
 ## Hi there 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-vector-stars-and-moon-icon-png-image_317944.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://p7.hiclipart.com/preview/646/338/449/black-white-computer-icons-icon-design-icons-download-sun-png.jpg">
+ <img alt="Blue" src="https://png.pngtree.com/png-vector/20190115/ourmid/pngtree-vector-stars-and-moon-icon-png-image_317944.jpg">
 </picture>
 
 <!--
