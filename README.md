@@ -19,7 +19,7 @@
 ###🌱 I’m currently learning rust and java
 
 
-###🔭 I’m currently working on creating a fron-end application in rust
+###🔭 I’m currently working on creating a front-end application in rust
 
 
 <!--
