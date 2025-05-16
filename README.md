@@ -16,10 +16,7 @@
 |     5|   SQL         |
 </details>
 
-###🌱 I’m currently learning rust and java
-
-
-###🔭 I’m currently working on creating a front-end application in rust
+###🌱 I’m currently learning java and kotlin
 
 
 <!--
