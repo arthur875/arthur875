@@ -9,7 +9,7 @@
 
 | Rank |   linguaggi   |
 |-----:|---------------|
-|     1|   python 🐍   |
+|     1|   javascript   |
 |     2|   java ☕     |
 |     3|   C#          |
 |     4|   rust 🦀     |
