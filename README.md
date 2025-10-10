@@ -12,11 +12,7 @@
 |     1|   javascript   |
 |     2|   java ☕     |
 |     3|   C#          |
-|     4|   rust 🦀     |
-|     5|   SQL         |
 </details>
-
-###🌱 I’m currently learning java and kotlin
 
 
 <!--
