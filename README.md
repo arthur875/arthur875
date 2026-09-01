@@ -9,9 +9,9 @@
 
 | Rank |   linguaggi   |
 |-----:|---------------|
-|     1|   javascript   |
-|     2|   java ☕     |
-|     3|   C#          |
+|     1|   C#          |
+|     2|   Rust        |
+|     3|   C           |
 </details>
 
 
